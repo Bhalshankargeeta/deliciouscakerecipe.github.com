@@ -1,0 +1,30 @@
+.cake{
+    background-color: antiquewhite;
+
+}
+.process{
+    display: flex;
+   
+    padding:20px;
+    margin:20px;
+}
+img{
+    box-shadow: 5px 5px 10px black;
+    width: 500px;
+    height: 500px;
+}
+.content{
+    margin-left:155px;
+    margin-top:50px;   
+}
+ h1{
+    text-shadow: 3px 3px 5px black;
+    
+    color:rgb(161, 236, 21);
+}
+li::marker{
+    color:orangered;
+}
+li{
+    font-size: 20px;
+}
